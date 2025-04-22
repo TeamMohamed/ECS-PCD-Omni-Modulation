@@ -1,21 +1,19 @@
-# 41 PCDs and the ECS: The Omni-Modulation Framework
+41 PCDs and the ECS: The Omni-Modulation Framework
 
-### 🔬 A Scientific White Paper by Anwar Mohamed  
-**Version:** v1.0.0  
-**License:** Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)  
+🔬 A Scientific White Paper by Anwar Mohamed  
+Version: v1.0.0  
+License: Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)  
 🔗 https://creativecommons.org/licenses/by-nc/4.0/
 
----
 
-## 🧬 Overview
+🧬 Overview
 
 This white paper presents the world’s first comprehensive integration of the **Endocannabinoid System (ECS)** across all **41 recognized Programmed Cell Death (PCD) mechanisms**.
 
 It introduces the **ECS–PCD Omni-Modulation Protocol** — a multi-tiered model that connects cannabinoid signaling with cellular death decisions, immune modulation, and cancer-specific kill switches.
 
----
 
-## ⚙️ Key Features
+⚙️ Key Features
 
 - ✅ **41 PCD types** mapped to ECS signaling
 - 🧩 Categorization:  
@@ -36,34 +34,30 @@ It introduces the **ECS–PCD Omni-Modulation Protocol** — a multi-tiered mode
   - Metabolic disease  
   - Functional medicine & frequency therapy
 
----
 
-## 🧠 Why This Matters
+🧠 Why This Matters
 
 This framework is:
 - The **first-ever unified ECS–PCD therapeutic map**
 - A **precision kill-switch toolkit** for functional medicine, cancer therapeutics, and AI-based health modeling
 - Compatible with **Quantum ECS**, **Cancer Hallmark Kill Models**, and **Metabolic Reprogramming Protocols**
 
----
 
-## 📄 Documentation
+📄 Documentation
 
 - `41 PCDs and the ECS.docx` – Main white paper
 - `LICENSE` – CC BY-NC 4.0 license
 - Zenodo link (to be added after submission)
 
----
 
-## 📧 Contact
+📧 Contact
 
-**Author:** Anwar Mohamed  
-**Email:** ecssignalling@gmail.com  
-**GitHub:** [TeamMohamed](https://github.com/TeamMohamed)
+Author: Anwar Mohamed  
+Email: TeamMohamed@proton.me 
+GitHub: [TeamMohamed](https://github.com/TeamMohamed)
 
----
 
-## 💡 Citation
+💡 Citation
 
 ```bibtex
 @article{mohamed2025ecs,
@@ -71,5 +65,4 @@ This framework is:
   author={Mohamed, Anwar},
   year={2025},
   note={Version 1.0.0, CC BY-NC 4.0 License},
-  howpublished={\url{https://zenodo.org/DOI-TBD}}
-}
+  howpublished: https://zenodo.org/10.5281/zenodo.15225635
